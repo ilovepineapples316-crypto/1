@@ -1,0 +1,49 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.shvili1{
+    background-color: hsl(0, 0%, 12%);
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.shvili1 h3{
+    color: white;
+    font-size: 19px;
+}
+
+.shvili1 img{
+    width: 70px;
+
+    border-radius: 50%
+
+}
+
+.shvili1 .info{
+    color:hsl(75, 94%, 57%)
+}
+.shvili1 button{
+    width: 250px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 5px;
+    color: white;
+    border: none;
+    height: 35px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.shvili1 .text{
+    color: hsl(0, 22%, 90%)
+}
+
+.Hide{
+    display: none;
+}
